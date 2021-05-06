@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+}
+.blk{
+    background-color: black;
+    width: 1536px;
+    height: 760px;
+}
+.blu{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+}
+.red{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin-left: 150px;
+}
+.grn{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+}
+.ylw{
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    margin-left: 450px;
+}
